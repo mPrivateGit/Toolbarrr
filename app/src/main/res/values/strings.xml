@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToolBarr</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem">Bar!!</string>
+    <string name="title_activity_na_vi">NaVi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dialog_fire_missiles">Fire miles?</string>
+    <string name="fire">FIRE!</string>
+    <string name="cancel">cancel</string>
+</resources>
